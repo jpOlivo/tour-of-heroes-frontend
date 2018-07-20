@@ -1,8 +1,14 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+This project was developed following the [Angular tutorial](https://angular.io/tutorial)
 
-This project is based in [tour-of-heroes tutorial](https://angular.io/tutorial)
+![img](https://i.imgur.com/TyB0ZZy.png)
+
+![img](https://i.imgur.com/KOx6Qjv.png)
+
+It app communicates with a Backend through an [API Rest](https://github.com/jpOlivo/tour-of-heroes-backend)
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
 

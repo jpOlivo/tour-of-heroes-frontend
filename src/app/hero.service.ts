@@ -62,6 +62,7 @@ export class HeroService {
     return this.http.put(`${this.heroesUrl}/${hero.id}`, hero, httpOptions).pipe(
       tap(_ => this.log(`updated hero id=${hero.id}`)),
       catchError(this.handleError<any>('updateHero'))
+      );
   }
 
   /** POST: add a new hero to the server */

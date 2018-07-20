@@ -1,4 +1,4 @@
-# AngularTourOfHeroes
+# Angular Tour Of Heroes
 
 This project was developed following the [Angular tutorial](https://angular.io/tutorial)
 
